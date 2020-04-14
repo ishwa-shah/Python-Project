@@ -30,3 +30,4 @@ The requirements include: the 'password' and 'confirm password' options should h
 -> There are single-line comments preceding functions/methods that brief you about the purpose of the function
 -> All the global varibles declared right after the import module section are used for checking various conditions in order to decide whether to undergo certain actions or not. 
 -> The Register and Login windows both proceed to the Menu Window for that particular user.
+-> The outer try - except block is present just in case a minor possible exception has been overlooked. 
