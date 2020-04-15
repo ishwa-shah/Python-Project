@@ -1,4 +1,4 @@
-It involves creating a User Interface using Tkinter module complete with Login/Register availabilities. The functionality performed involves identifying text from an image (*.jpg, *.png) and providing the user with the option to choose the text (as clickable text) to get the meaning and pronunciation.
+It involves creating a User Interface using Tkinter module complete with Login/Register availabilities. The functionality performed involves identifying text from an image (*.jpg, *.png) and providing the user with the option to choose the text (as clickable text) to get the meaning and pronunciation. The major details of the project are mentioned in the video (via audio.)
 
 *****Modules involved*****:
 tkinter: for GUI
