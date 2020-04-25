@@ -1,16 +1,16 @@
 It involves creating a User Interface using Tkinter module complete with Login/Register availabilities. The functionality performed involves identifying text from an image (*.jpg, *.png) and providing the user with the option to choose the text (as clickable text) to get the meaning and pronunciation. The major details of the project are mentioned in the video (via audio.)
 
 *****Modules involved*****:
-tkinter: for GUI
-pytesseract: for converting image to text
-cv2: for reading the image for pytesseract
-PyDictionary: for getting meanings of the selected word
-PIL: pillow for reading images for Labels (tkinter)
-gtts: for text-to-speech conversion
-email_validator: to validate email input from user
-string: for certain string based functions
-re: for access to re.split()
-os: for access to list of files and directories and for audio play
+1. tkinter: for GUI
+2. pytesseract: for converting image to text
+3. cv2: for reading the image for pytesseract
+4. PyDictionary: for getting meanings of the selected word
+5. PIL: pillow for reading images for Labels (tkinter)
+6. gtts: for text-to-speech conversion
+7. email_validator: to validate email input from user
+8. string: for certain string based functions
+9. re: for access to re.split()
+10. os: for access to list of files and directories and for audio play
 
 *****Notes to be taken care of*****:
 -> The indentation of the Labels, Buttons, Windows and Menu may vary from device to device and application to application
