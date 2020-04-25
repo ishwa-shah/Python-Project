@@ -14,7 +14,7 @@ It involves creating a User Interface using Tkinter module complete with Login/R
 
 *****Notes to be taken care of*****:
 -> The indentation of the Labels, Buttons, Windows and Menu may vary from device to device and application to application
--> In case of any error, reload/refresh the kernel before running the code, else a "pyimage" error may be observed
+-> In case of any error, reload/refresh the kernel before running the code, else a "TCLError: pyimage doesn't exist" exception may be observed
 -> Ensure that the image type meets the requirements based on where it is to be used.
 -> Pytesseract usually has a high accuracy. However, it is not full-proof. There maybe instances where it is unable to identify the text in the image or wrongly identifies it. It's better to choose an image with high clarity.
 -> As of now, the language is restricted to English. However, it can be expanded for multiple languages.
